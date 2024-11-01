@@ -1,0 +1,5 @@
+*.txt
+.venv
+audios
+videos
+audio_chunks
